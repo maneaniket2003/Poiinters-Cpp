@@ -6,7 +6,7 @@ int main() {
 	int *q = &A[3];
 	
 	cout<<p<<endl;
-	
+	cout << "Hello" << endl;
 	p++;
 	
 	cout<<p<<endl;
